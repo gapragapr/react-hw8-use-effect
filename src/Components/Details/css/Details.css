@@ -1,0 +1,11 @@
+.details{
+    border: 1px solid #cacaca;
+}
+.user-name{
+    font-size: 18px;
+}
+.details p {
+    padding: 15px 7px;
+    border-bottom: 1px solid #cacaca;
+    margin: 0;
+}

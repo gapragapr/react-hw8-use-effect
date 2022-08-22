@@ -1,0 +1,20 @@
+ul{
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    border: 1px solid #cacaca;
+    margin-right: 70px;
+}
+
+li{
+    padding: 15px 7px;
+    cursor: pointer;
+    border-bottom: 1px solid #cacaca;
+}
+.active-user{
+    background-color: rgb(61, 61, 252);
+    color: #fff;
+}
